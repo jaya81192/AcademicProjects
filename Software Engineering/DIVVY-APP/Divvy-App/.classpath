@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jre1.8.0_25">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.server.core.container/org.eclipse.jst.server.tomcat.runtimeTarget/Apache Tomcat v8.0">
+		<attributes>
+			<attribute name="owner.project.facets" value="jst.web"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="C:/Users/Hi/Downloads/ALL/httpunit-1.7/jars/activation-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Hi/Downloads/ALL/httpunit-1.7/jars/js-1.6R5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Hi/Downloads/ALL/httpunit-1.7/jars/jtidy-4aug2000r7-dev.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Hi/Downloads/ALL/httpunit-1.7/jars/junit-3.8.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Hi/Downloads/ALL/httpunit-1.7/jars/mail-1.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Hi/Downloads/ALL/httpunit-1.7/jars/nekohtml-0.9.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Hi/Downloads/ALL/httpunit-1.7/jars/servlet-api-2.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Hi/Downloads/ALL/httpunit-1.7/jars/xercesImpl-2.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Hi/Downloads/ALL/httpunit-1.7/jars/xmlParserAPIs-2.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Hi/Downloads/ALL/httpunit-1.7/lib/httpunit.jar" sourcepath="C:/Users/Hi/Downloads/ALL/httpunit-1.7/lib/httpunit.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/mysql-connector-java-5.1.30.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/mysql-connector-java-5.1.29.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>

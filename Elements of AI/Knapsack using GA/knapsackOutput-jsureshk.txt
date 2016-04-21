@@ -1,0 +1,99 @@
+Name:Jayalakshmi Sureshkumar
+Username: jsureshk
+
+[jsureshk@silo Desktop]$ python knapsack.py
+popsize = 10, max year = 10, mutation_probability = 0.01, elitism ratio = 0.15
+Best year for difficulty sanity_check is 0 with high score 100.0 and chromosome [0, 0, 0]
+Best year for difficulty easy is 0 with high score 11.0 and chromosome [0, 0, 0, 0, 0]
+Best year for difficulty medium is 0 with high score 128.0 and chromosome [0, 0, 1, 1, 0, 1, 0, 0, 0, 1, 1, 0, 1, 0, 1, 0, 0, 1, 0, 0, 1]
+Best year for difficulty hard is 1 with high score 10708.5351141 and chromosome [1, 0, 0, 1, 1, 1, 1, 0, 1, 0, 0, 0, 0, 1, 0, 1, 1, 1, 1, 0, 0, 0, 1, 0, 1, 1, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 1, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 1, 1, 1, 1, 1, 0, 1, 0, 0, 0, 0, 1, 1, 1, 0, 0, 1, 1, 0, 1, 1, 0, 1, 0, 0, 1, 0, 1, 1, 1, 0, 1, 1, 1, 1, 0, 1, 1, 0, 1, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 0, 0]
+_______________________________________________________________________________
+popsize = 10, max year = 20, mutation_probability = 0.1, elitism ratio = 0.15
+Best year for difficulty sanity_check is 0 with high score 100.0 and chromosome [0, 0, 0]
+Best year for difficulty easy is 0 with high score 15.0 and chromosome [1, 0, 0, 0, 0]
+Best year for difficulty medium is 0 with high score 131.0 and chromosome [0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1]
+Best year for difficulty hard is 9 with high score 12711.4893337 and chromosome [0, 0, 0, 0, 0, 1, 1, 1, 0, 1, 1, 1, 0, 1, 0, 1, 0, 0, 1, 0, 0, 1, 1, 1, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 1, 0, 0, 1, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 1, 0, 0, 1, 0, 1, 0, 1, 1, 0, 0, 0, 1, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1, 0]
+_______________________________________________________________________________
+popsize = 20, max year = 20, mutation_probability = 0.1, elitism ratio = 0.15
+Best year for difficulty sanity_check is 0 with high score 100.0 and chromosome [0, 0, 0]
+Best year for difficulty easy is 0 with high score 15.0 and chromosome [0, 0, 0, 0, 0]
+Best year for difficulty medium is 3 with high score 129.0 and chromosome [1, 0, 0, 1, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0]
+Best year for difficulty hard is 0 with high score 12963.2691361 and chromosome [0, 0, 1, 1, 1, 1, 1, 1, 0, 1, 0, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 1, 0, 1, 1, 1, 0, 0, 0, 0, 1, 0, 1, 0, 1, 0, 1, 1, 0, 0, 1, 0, 1, 1, 0, 0, 0, 1, 1, 1, 0, 1, 0, 1, 1, 1, 0, 1, 1, 0, 1, 0, 1, 0, 0, 0, 1, 0, 0, 1, 1, 0, 0, 0, 1, 1, 0, 1, 0, 1, 0, 0, 1, 0, 1, 1]
+_______________________________________________________________________________
+popsize = 30, max year = 20, mutation_probability = 0.1, elitism ratio = 0.15
+Best year for difficulty sanity_check is 0 with high score 100.0 and chromosome [0, 0, 0]
+Best year for difficulty easy is 0 with high score 15.0 and chromosome [0, 1, 1, 0, 0]
+Best year for difficulty medium is 0 with high score 140.0 and chromosome [1, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0]
+Best year for difficulty hard is 9 with high score 13183.1287062 and chromosome [0, 1, 0, 1, 0, 1, 0, 1, 0, 0, 0, 1, 0, 1, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 1, 1, 1, 0, 1, 1, 1, 0, 1, 1, 1, 0, 1, 0, 0, 0, 0, 1, 1, 0, 0, 1, 1, 0, 0, 1, 1, 0, 0, 0, 1, 1, 1, 0, 0, 1, 0, 1, 1, 0, 1, 1, 1, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0]
+_______________________________________________________________________________
+popsize = 40, max year = 20, mutation_probability = 0.1, elitism ratio = 0.15
+Best year for difficulty sanity_check is 0 with high score 100.0 and chromosome [1, 0, 0]
+Best year for difficulty easy is 0 with high score 15.0 and chromosome [0, 0, 0, 1, 0]
+Best year for difficulty medium is 0 with high score 135.0 and chromosome [0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0]
+Best year for difficulty hard is 13 with high score 13024.6816058 and chromosome [0, 1, 0, 0, 0, 0, 0, 1, 1, 0, 0, 1, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 1, 0, 0, 1, 1, 0, 1, 1, 1, 0, 0, 0, 0, 1, 0, 0, 1, 1, 1, 0, 1, 1, 0, 0, 0, 0, 1, 0, 1, 1, 0, 1, 1, 0, 0, 0, 1, 0, 1, 0, 0, 0, 1, 0, 1, 0, 0, 1, 0, 1, 1, 0, 1, 1, 0, 1, 1, 1, 0, 0, 1, 1, 0, 1, 1, 1, 0]
+_______________________________________________________________________________
+popsize = 50, max year = 20, mutation_probability = 0.1, elitism ratio = 0.15
+Best year for difficulty sanity_check is 0 with high score 100.0 and chromosome [0, 0, 0]
+Best year for difficulty easy is 0 with high score 15.0 and chromosome [0, 0, 0, 0, 0]
+Best year for difficulty medium is 0 with high score 149.0 and chromosome [0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0]
+Best year for difficulty hard is 15 with high score 12438.6858585 and chromosome [0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 1, 1, 1, 1, 1, 1, 0, 1, 1, 0, 0, 1, 0, 0, 1, 1, 0, 0, 1, 1, 0, 0, 1, 1, 0, 0, 1, 1, 1, 0, 1, 0, 1, 1, 1, 1, 1, 1, 0, 1, 0, 1, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 1, 0, 0, 1, 1, 0, 0, 1, 0, 1, 0, 0, 0, 1, 1, 0]
+_______________________________________________________________________________
+popsize = 50, max year = 20, mutation_probability = 0.1, elitism ratio = 0.25
+Best year for difficulty sanity_check is 0 with high score 100.0 and chromosome [0, 0, 0]
+Best year for difficulty easy is 0 with high score 15.0 and chromosome [0, 0, 0, 0, 0]
+Best year for difficulty medium is 0 with high score 150.0 and chromosome [1, 0, 0, 1, 1, 1, 0, 1, 1, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0]
+Best year for difficulty hard is 7 with high score 14008.7329811 and chromosome [0, 1, 1, 1, 0, 0, 0, 1, 0, 1, 0, 0, 0, 1, 0, 0, 1, 0, 1, 1, 1, 0, 0, 1, 0, 0, 0, 1, 0, 1, 0, 1, 0, 1, 1, 0, 0, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 0, 0, 0, 1, 1, 1, 0, 1, 0, 1, 0, 0, 0, 1, 0, 1, 1, 0, 1, 0, 0, 0, 1, 1, 0, 1, 1, 0, 0, 0, 0, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 1, 1, 0, 1, 0, 0, 1]
+_______________________________________________________________________________
+popsize = 50, max year = 20, mutation_probability = 0.1, elitism ratio = 0.50
+Best year for difficulty sanity_check is 0 with high score 100.0 and chromosome [0, 0, 0]
+Best year for difficulty easy is 0 with high score 15.0 and chromosome [1, 0, 0, 0, 0]
+Best year for difficulty medium is 14 with high score 147.0 and chromosome [0, 0, 0, 1, 0, 1, 0, 1, 1, 0, 0, 0, 1, 1, 0, 0, 0, 1, 0, 1, 1]
+Best year for difficulty hard is 8 with high score 13311.4994049 and chromosome [0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 1, 1, 1, 0, 1, 1, 0, 0, 1, 1, 0, 1, 0, 1, 0, 0, 0, 1, 1, 1, 1, 0, 1, 0, 0, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 1, 1, 1, 0, 1, 0, 0, 0, 1, 1, 0, 1, 1, 1, 0, 1, 0, 0, 1, 1, 0, 0, 1, 0, 1, 1, 0, 1, 1, 0, 0, 0, 1, 0, 1, 1, 0, 0, 1, 0, 1, 0, 1, 1, 0, 1, 0, 0, 1, 1, 1, 1, 0]
+_______________________________________________________________________________
+popsize = 50, max year = 30, mutation_probability = 0.1, elitism ratio = 0.50
+Best year for difficulty sanity_check is 0 with high score 100.0 and chromosome [0, 0, 0]
+Best year for difficulty easy is 0 with high score 15.0 and chromosome [0, 0, 0, 0, 0]
+Best year for difficulty medium is 0 with high score 147.0 and chromosome [1, 0, 0, 1, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0]
+Best year for difficulty hard is 1 with high score 13539.1987224 and chromosome [1, 1, 0, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0, 1, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 1, 1, 1, 0, 1, 0, 0, 0, 1, 1, 0, 1, 0, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 0, 1, 1, 1, 0, 0, 1, 1, 1, 1, 0, 1, 1, 1, 0, 1, 0, 1, 0, 1, 0, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 0, 1, 1, 0, 1, 1, 1, 0, 0, 0, 1, 0, 0, 0, 1, 1, 0, 0, 0]
+_______________________________________________________________________________
+popsize = 50, max year = 40, mutation_probability = 0.1, elitism ratio = 0.50
+Best year for difficulty sanity_check is 0 with high score 100.0 and chromosome [0, 0, 0]
+Best year for difficulty easy is 0 with high score 15.0 and chromosome [0, 0, 0, 0, 0]
+Best year for difficulty medium is 23 with high score 146.0 and chromosome [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 1, 0, 0]
+Best year for difficulty hard is 0 with high score 13291.1500661 and chromosome [0, 1, 0, 1, 1, 0, 0, 0, 0, 0, 0, 1, 0, 1, 1, 0, 0, 1, 0, 0, 0, 1, 0, 0, 1, 0, 1, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0, 1, 0, 1, 1, 1, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0, 0, 1, 1, 1, 0, 0, 1, 1, 1, 1, 0, 0, 1, 1, 1, 0, 0, 0, 0, 1, 1, 0, 1, 1, 0, 0, 1, 0, 0, 0, 0, 0, 1, 1, 1, 0, 1, 0, 0, 0, 0]
+_______________________________________________________________________________
+popsize = 50, max year = 50, mutation_probability = 0.1, elitism ratio = 0.50
+Best year for difficulty sanity_check is 0 with high score 100.0 and chromosome [0, 0, 0]
+Best year for difficulty easy is 0 with high score 15.0 and chromosome [0, 0, 0, 0, 0]
+Best year for difficulty medium is 6 with high score 150.0 and chromosome [1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0]
+Best year for difficulty hard is 3 with high score 13202.0147385 and chromosome [1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 0, 0, 1, 0, 1, 1, 0, 1, 0, 0, 1, 1, 1, 0, 0, 1, 0, 0, 1, 1, 0, 1, 1, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 0, 1, 1, 0, 1, 0, 0, 0, 1, 1, 0, 0, 1, 1, 0, 1, 1, 1, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 1, 1, 1, 1, 0, 1, 1, 1, 0, 1, 1, 1, 0, 1, 0, 0, 1, 0, 0, 1, 0, 1]
+_______________________________________________________________________________
+popsize = 50, max year = 50, mutation_probability = 0.01, elitism ratio = 0.50
+Best year for difficulty sanity_check is 0 with high score 100.0 and chromosome [0, 0, 0]
+Best year for difficulty easy is 0 with high score 15.0 and chromosome [0, 1, 0, 0, 0]
+Best year for difficulty medium is 29 with high score 143.0 and chromosome [0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 1, 0]
+Best year for difficulty hard is 45 with high score 12694.5171933 and chromosome [1, 1, 0, 0, 0, 0, 0, 1, 1, 1, 0, 0, 1, 0, 1, 0, 1, 1, 1, 0, 1, 1, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 1, 0, 1, 1, 1, 0, 0, 1, 1, 1, 1, 0, 1, 0, 0, 1, 1, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 1, 0, 0, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 1, 0, 1, 0, 1, 0, 0, 1, 0]
+_______________________________________________________________________________
+popsize = 50, max year = 50, mutation_probability = 0.001, elitism ratio = 0.50
+Best year for difficulty sanity_check is 0 with high score 100.0 and chromosome [0, 0, 0]
+Best year for difficulty easy is 0 with high score 15.0 and chromosome [0, 0, 0, 0, 0]
+Best year for difficulty medium is 19 with high score 137.0 and chromosome [0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0]
+Best year for difficulty hard is 0 with high score 12635.0993573 and chromosome [1, 0, 1, 0, 1, 1, 0, 1, 1, 1, 0, 0, 1, 1, 0, 0, 1, 1, 1, 0, 0, 1, 0, 1, 0, 0, 1, 0, 1, 1, 1, 1, 0, 0, 1, 0, 0, 1, 0, 1, 1, 0, 0, 0, 1, 1, 0, 0, 1, 1, 1, 0, 1, 0, 1, 1, 1, 0, 0, 1, 1, 1, 1, 0, 1, 0, 1, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 1, 0, 0, 0, 1, 0, 1, 1, 0, 0, 1, 1, 0, 0, 1, 0, 0, 0, 1]
+_______________________________________________________________________________
+popsize = 50, max year = 50, mutation_probability = 0.0001, elitism ratio = 0.50
+Best year for difficulty sanity_check is 0 with high score 100.0 and chromosome [0, 0, 0]
+Best year for difficulty easy is 0 with high score 15.0 and chromosome [0, 0, 0, 0, 0]
+Best year for difficulty medium is 0 with high score 151.0 and chromosome [1, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1]
+Best year for difficulty hard is 39 with high score 12614.4178431 and chromosome [0, 1, 0, 1, 1, 1, 0, 0, 0, 0, 1, 0, 1, 1, 0, 0, 1, 1, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 1, 1, 0, 1, 0, 0, 0, 1, 1, 0, 1, 0, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0, 1, 0, 1, 1, 0, 0, 0, 1, 1, 1, 0, 0, 1, 0, 0, 1, 0, 0, 1, 0, 1, 1, 0, 0, 1, 0, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 1, 1, 1, 0, 0, 0, 1, 0, 1]
+_______________________________________________________________________________
+popsize = 50, max year = 50, mutation_probability = 0.0001, elitism ratio = 0.15
+Best year for difficulty sanity_check is 0 with high score 100.0 and chromosome [0, 0, 0]
+Best year for difficulty easy is 0 with high score 15.0 and chromosome [0, 1, 0, 1, 0]
+Best year for difficulty medium is 18 with high score 148.0 and chromosome [0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 0, 0, 0, 1, 0]
+Best year for difficulty hard is 11 with high score 12686.8966584 and chromosome [0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 1, 1, 0, 1, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 1, 1, 1, 0, 0, 1, 0, 1, 0, 0, 1, 1, 0, 1, 1, 0, 0, 1, 0, 1, 0, 1, 0, 1, 1, 1, 0, 0, 0, 1, 0, 0, 1, 1, 1, 0, 1, 0, 1]
+_______________________________________________________________________________
+popsize = 50, max year = 50, mutation_probability = 0.0001, elitism ratio = 0
+Best year for difficulty sanity_check is 0 with high score 100.0 and chromosome [1, 0, 0]
+Best year for difficulty easy is 0 with high score 15.0 and chromosome [0, 0, 0, 0, 1]
+Best year for difficulty medium is 3 with high score 143.0 and chromosome [0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0]
+Best year for difficulty hard is 2 with high score 13207.3884124 and chromosome [1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 0, 1, 1, 0, 1, 1, 1, 1, 0, 0, 0, 1, 0, 1, 0, 1, 0, 0, 0, 1, 0, 1, 0, 1, 0, 1, 0, 0, 0, 0, 0, 1, 0, 1, 1, 1, 0, 1, 0, 0, 1, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 0, 0, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 0, 1, 0, 0, 1, 1, 1, 1, 1, 0, 0, 0, 1, 0, 1, 1]

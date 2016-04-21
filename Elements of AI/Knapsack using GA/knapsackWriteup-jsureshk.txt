@@ -1,0 +1,45 @@
+Name: Jayalakshmi Sureshkumar
+Username: jsureshk
+
+Best Solution among the various test cases:
+popsize = 50, max year = 20, mutation_probability = 0.1, elitism ratio = 0.25
+Best year for difficulty sanity_check is 0 with high score 100.0 and chromosome [0, 0, 0]
+Best year for difficulty easy is 0 with high score 15.0 and chromosome [0, 0, 0, 0, 0]
+Best year for difficulty medium is 0 with high score 150.0 and chromosome [1, 0, 0, 1, 1, 1, 0, 1, 1, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0]
+Best year for difficulty hard is 7 with high score 14008.7329811 and chromosome [0, 1, 1, 1, 0, 0, 0, 1, 0, 1, 0, 0, 0, 1, 0, 0, 1, 0, 1, 1, 1, 0, 0, 1, 0, 0, 0, 1, 0, 1, 0, 1, 0, 1, 1, 0, 0, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 0, 0, 0, 1, 1, 1, 0, 1, 0, 1, 0, 0, 0, 1, 0, 1, 1, 0, 1, 0, 0, 0, 1, 1, 0, 1, 1, 0, 0, 0, 0, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 1, 1, 0, 1, 0, 0, 1]
+
+Effect of the initial population:
+
+Taking the example of  max_year of 10 and size 20 in the output with population size of just 10. Both results for easy got us the best solution in the year 0 itself. But, the first run gave us a best solution of 11, while the second gave us 15. This shows that the initial population has a great effect on the best solution. Given that the genetic algorithm is only iterated for few years, the initial population can make a lot of difference in getting us the best solution. If we were to run the algorithm for higher number of years, the best solution could get better, but given a low max_year, initial population helps a lot. 
+
+If we were to consider the same for the hard problem, running for more number of years may get us better results, but if we were to have a really good initial population, we could get good results soon. 
+
+
+Effect of elitism:
+
+A crossover ratio of 75% seems to work best. A very low crossover ratio is not good, while some elitism seem to help getting the best solution. 
+
+If we were to take a really low crossover, and do more elitism, we might loose on getting possible better solution with crossover. Though no elitism at all seem to do fine, with some elitism we can retain some of the best chromosomes. With no elitism at all, there is a chance that we might lose a really good chromosome we already have.
+
+Effect of mutation:
+
+In some case, because of the initial sample being random, there are a lot of empty knapsacks among the chromosomes. The major advantage of mutation is that it made some of such chromosomes useful. The best solution I got has a mutation_probability of 0.1. 
+
+Less mutation after getting a set of good chromosomes is better. But mutation seem to help a lot in making the initial samples better.
+High mutation probability also means there is a high change that a really good chromosome can become less better. 
+
+Effect of population size:
+
+A higher population size means the initial random samples would possibly contain better chromosomes than when population size is small. Thus, population size can lead to a better initial population, and thus ultimately a better best solution.
+
+Effect of maximum year:
+
+Increasing the max_year too much did not help a lot. The best solution I got is with max_year of 20, but this also depended on factors like initial population, population size, elitism, etc. 
+
+Generally, higher max_year means more opportunity and time to improve the best solution. It is very likely that a much better solution can be attained sometime later in the future. So, generally higher max_year can get us better result. 
+
+ 
+
+
+
+

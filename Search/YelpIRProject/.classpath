@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/Hi/Downloads/lucene-analyzers-common-5.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Hi/Downloads/lucene-core-5.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Hi/Downloads/lucene-demo-5.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Hi/Downloads/lucene-expressions-5.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Hi/Downloads/lucene-facet-5.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Hi/Downloads/lucene-queries-5.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Hi/Downloads/lucene-queryparser-5.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Hi/Downloads/mysql-connector-java-5.1.30.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Hi/Downloads/javax.servlet-api-3.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Hi/Downloads/json-simple-1.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

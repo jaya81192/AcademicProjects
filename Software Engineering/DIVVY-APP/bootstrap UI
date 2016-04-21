@@ -1,0 +1,144 @@
+<%@ page language="java" contentType="text/html; charset=ISO-8859-1"
+    pageEncoding="ISO-8859-1"%>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+<!-- Latest compiled and minified CSS -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.0/css/bootstrap.min.css">
+
+<!-- Optional theme -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.0/css/bootstrap-theme.min.css">
+<link rel="stylesheet" type="text/css" href="C:\Users\Pranav\Downloads\bootstrap-3.3.0-dist\dist\css\custom.css">
+<title>Insert title here</title>
+</head>
+<body>
+<!-- Latest compiled and minified JavaScript -->
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.0/js/bootstrap.min.js"></script>
+
+
+<div class="row">
+	<div class="col-xs-12 col-md-8"><h1>DivvyApp </h1></div>
+  	<div class="col-xs-6 col-md-4"><h4>Welcome User</h4></div>
+</div>
+ 
+  	
+<div class="row"> 
+	<div class="col-cs-6 col-md-4">
+		Assign task <br>
+		<select>
+  			<option value="Cooking">Cooking</option>
+  			<option value="Cleaning">Cleaning</option>
+  			<option value="Laundry">Laundry</option>
+			<option value="Grocery">Grocery</option>
+		</select>
+		
+		<select>
+  			<option value="User1">User 1</option>
+  			<option value="User2">User 2</option>
+  			<option value="User3">User 3</option>
+			<option value="User4">User 4</option>
+		</select>
+		
+		<button type="button">Assign</button>
+		
+	</div>
+
+  	<div class="col-cs-6 col-md-4">
+  		<table class="table table-hover">
+  			<tr> 	
+  				<th>Name </th>
+  				<th>Task </th>
+  				<th>Points</th>
+  				<th>Due Date</th>  	 
+  			</tr>
+  			<tr>
+  				<td>Pranav </td>
+  				<td>Design UI</td>
+  				<td>100</td>
+  				<td>Tomorrow</td>
+  			</tr>
+  			<tr>
+  				<td>Pranav </td>
+  				<td>Design UI</td>
+  				<td>100</td>
+  				<td>Tomorrow</td>
+  			</tr>
+  			<tr>
+  				<td>Pranav </td>
+  				<td>Design UI</td>
+  				<td>100</td>
+  				<td>Tomorrow</td>
+  			</tr>
+		</table>
+  	</div>
+  
+  	<div class="col-cs-6 col-md-4">
+  		<table class="table table-bordered">
+  			<tr>
+  				<th>Name</th>
+  				<th>Points</th>
+  			</tr>
+  			<tr>
+  				<td>User1</td>
+  				<td>25</td>
+  			</tr>
+		  	<tr>
+		  		<td>User2</td>
+  				<td>40</td>
+  			</tr>
+		</table>
+  	</div>
+</div> 
+  
+<div class="row">	
+   <div class="col-xs-4"><b>Add Task</b>
+  		<form class="form-horizontal" role="form">
+  		<div class="form-group">
+    		<label for="inputEmail3" class="col-sm-2 control-label">Task</label>
+    		<div class="col-sm-10">
+      			<input type="email" class="form-control" id="inputEmail3" placeholder="Task">
+    		</div>
+  		</div>
+  		<div class="form-group">
+    		<label for="inputPassword3" class="col-sm-2 control-label">Points</label>
+    		<div class="col-sm-10">
+		    	<input type="text" class="form-control" id="inputPassword3" placeholder="Points">
+    		</div>
+  		</div>
+		<div class="form-group">
+    		<div class="col-sm-offset-2 col-sm-10">
+      			<button type="submit" class="btn btn-default">Add</button>
+    		</div>
+  		</div>
+  		
+		</form>
+   </div>
+   <div class="col-xs-4">
+   </div>
+   <div class="col-xs-4"><b>Add user</b>
+  		<form class="form-horizontal" role="form">
+  		<div class="form-group">
+    		<label for="inputEmail3" class="col-sm-2 control-label">Email</label>
+    		<div class="col-sm-10">
+      			<input type="email" class="form-control" id="inputEmail3" placeholder="Email">
+    		</div>
+  		</div>
+  		<div class="form-group">
+    		<label for="inputPassword3" class="col-sm-2 control-label">Name</label>
+    		<div class="col-sm-10">
+		    	<input type="text" class="form-control" id="inputPassword3" placeholder="Name">
+    		</div>
+  		</div>
+		<div class="form-group">
+    		<div class="col-sm-offset-2 col-sm-10">
+      			<button type="submit" class="btn btn-default">Add</button>
+    		</div>
+  		</div>
+		</form>
+   </div>
+   
+</div>
+
+</body>
+</html>

@@ -1,0 +1,74 @@
+INFO    2014-12-07 19:05:20,116 [http-nio-8080-exec-1] com.divvyapp.LoginValidation  - This is a logging statement from log4j
+INFO    2014-12-07 19:06:05,375 [http-nio-8080-exec-1] com.divvyapp.LoginValidation  - This is a logging statement from log4j
+INFO    2014-12-07 19:13:51,807 [http-nio-8080-exec-1] com.divvyapp.LoginValidation  - This is a logging statement from log4j
+INFO    2014-12-07 19:14:05,051 [http-nio-8080-exec-1] com.divvyapp.LoginValidation  - This is a logging statement from log4j
+INFO    2014-12-07 19:15:45,536 [http-nio-8080-exec-1] com.divvyapp.LoginValidation  - This is a logging statement from log4j
+INFO    2014-12-07 19:19:25,297 [http-nio-8080-exec-1] com.divvyapp.LoginValidation  - This is a logging statement from log4j
+INFO    2014-12-07 19:22:14,885 [http-nio-8080-exec-1] com.divvyapp.LoginValidation  - This is a logging statement from log4j
+ERROR   2014-12-07 19:28:23,814 [http-nio-8080-exec-1] com.divvyapp.LoginValidation  - This is a logging statement from log4j
+ERROR   2014-12-07 19:29:50,203 [http-nio-8080-exec-1] com.divvyapp.LoginValidation  - BOOOOOOOOOOOOOOOOOOOOOOOOOOOOOj
+ERROR   2014-12-07 19:30:46,180 [http-nio-8080-exec-2] com.divvyapp.LoginValidation  - com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Table 'divvy.advancetestdate' doesn't exist
+ERROR   2014-12-07 21:16:18,503 [http-nio-8080-exec-2] com.divvyapp.ChangeWeeklyPoints  - java.sql.SQLException: No value specified for parameter 2
+ERROR   2014-12-07 21:16:23,207 [http-nio-8080-exec-6] com.divvyapp.ChangeWeeklyPoints  - java.sql.SQLException: No value specified for parameter 2
+ERROR   2014-12-07 21:32:11,863 [http-nio-8080-exec-3] com.divvyapp.ChangeWeeklyPoints  - java.sql.SQLException: No value specified for parameter 2
+ERROR   2014-12-07 22:10:18,701 [http-nio-8080-exec-10] com.divvyapp.ChangeWeeklyPoints  - java.sql.SQLException: No value specified for parameter 2
+ERROR   2014-12-11 18:28:23,639 [http-nio-8080-exec-9] com.divvyapp.AddTasks  - java.sql.SQLException: Data truncated for column 'taskpoints' at row 1
+ERROR   2014-12-11 18:33:12,936 [http-nio-8080-exec-2] com.divvyapp.AddTasks  - java.sql.SQLException: Parameter index out of range (3 > number of parameters, which is 2).
+ERROR   2014-12-11 18:33:34,606 [http-nio-8080-exec-1] com.divvyapp.AddTasks  - java.sql.SQLException: Parameter index out of range (3 > number of parameters, which is 2).
+ERROR   2014-12-12 13:16:08,173 [http-nio-8080-exec-4] com.divvyapp.AssignTasks  - com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Unknown column 'NaN' in 'field list'
+ERROR   2014-12-12 13:16:14,525 [http-nio-8080-exec-5] com.divvyapp.AssignTasks  - com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Unknown column 'NaN' in 'field list'
+ERROR   2014-12-12 13:16:24,265 [http-nio-8080-exec-8] com.divvyapp.AssignTasks  - com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Unknown column 'NaN' in 'field list'
+ERROR   2014-12-12 13:19:00,774 [http-nio-8080-exec-2] com.divvyapp.AssignTasks  - com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Unknown column 'NaN' in 'field list'
+ERROR   2014-12-12 13:19:07,227 [http-nio-8080-exec-10] com.divvyapp.AssignTasks  - com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Unknown column 'NaN' in 'field list'
+ERROR   2014-12-12 13:19:11,422 [http-nio-8080-exec-6] com.divvyapp.AssignTasks  - com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Unknown column 'NaN' in 'field list'
+ERROR   2014-12-12 13:21:15,162 [http-nio-8080-exec-10] com.divvyapp.AssignTasks  - com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Unknown column 'NaN' in 'field list'
+ERROR   2014-12-12 13:21:42,018 [http-nio-8080-exec-3] com.divvyapp.AssignTasks  - com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Unknown column 'NaN' in 'field list'
+ERROR   2014-12-12 13:22:24,652 [http-nio-8080-exec-10] com.divvyapp.AssignTasks  - com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Unknown column 'NaN' in 'field list'
+ERROR   2014-12-12 13:25:17,161 [http-nio-8080-exec-1] com.divvyapp.AssignTasks  - com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Unknown column 'NaN' in 'field list'
+ERROR   2014-12-12 13:25:49,373 [http-nio-8080-exec-9] com.divvyapp.AssignTasks  - com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Unknown column 'NaN' in 'field list'
+ERROR   2014-12-12 13:31:15,659 [http-nio-8080-exec-12] com.divvyapp.AssignTasks  - com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Unknown column 'NaN' in 'field list'
+ERROR   2014-12-12 13:32:15,449 [http-nio-8080-exec-20] com.divvyapp.AssignTasks  - java.lang.IllegalStateException: Cannot call sendRedirect() after the response has been committed
+ERROR   2014-12-12 13:32:25,012 [http-nio-8080-exec-16] com.divvyapp.AssignTasks  - java.lang.IllegalStateException: Cannot call sendRedirect() after the response has been committed
+ERROR   2014-12-12 13:32:30,267 [http-nio-8080-exec-21] com.divvyapp.AssignTasks  - java.lang.IllegalStateException: Cannot call sendRedirect() after the response has been committed
+ERROR   2014-12-12 13:32:32,312 [http-nio-8080-exec-15] com.divvyapp.AssignTasks  - java.lang.NullPointerException
+ERROR   2014-12-12 13:32:41,727 [http-nio-8080-exec-19] com.divvyapp.AssignTasks  - java.lang.NullPointerException
+ERROR   2014-12-12 13:33:42,062 [http-nio-8080-exec-4] com.divvyapp.AssignTasks  - java.lang.IllegalStateException: Cannot call sendRedirect() after the response has been committed
+ERROR   2014-12-12 13:35:42,386 [http-nio-8080-exec-9] com.divvyapp.AdvanceDate  - java.text.ParseException: Unparseable date: ""
+ERROR   2014-12-12 13:35:53,585 [http-nio-8080-exec-8] com.divvyapp.AdvanceDate  - java.text.ParseException: Unparseable date: ""
+ERROR   2014-12-12 13:35:58,915 [http-nio-8080-exec-10] com.divvyapp.AdvanceDate  - java.text.ParseException: Unparseable date: ""
+ERROR   2014-12-12 13:36:19,928 [http-nio-8080-exec-2] com.divvyapp.AssignTasks  - java.lang.IllegalStateException: Cannot call sendRedirect() after the response has been committed
+ERROR   2014-12-12 13:36:22,224 [http-nio-8080-exec-4] com.divvyapp.AssignTasks  - java.lang.IllegalStateException: Cannot call sendRedirect() after the response has been committed
+ERROR   2014-12-12 13:36:23,129 [http-nio-8080-exec-8] com.divvyapp.AssignTasks  - java.lang.IllegalStateException: Cannot call sendRedirect() after the response has been committed
+ERROR   2014-12-12 13:36:23,840 [http-nio-8080-exec-1] com.divvyapp.AssignTasks  - java.lang.IllegalStateException: Cannot call sendRedirect() after the response has been committed
+ERROR   2014-12-12 13:36:24,719 [http-nio-8080-exec-9] com.divvyapp.AssignTasks  - java.lang.IllegalStateException: Cannot call sendRedirect() after the response has been committed
+ERROR   2014-12-12 13:36:25,371 [http-nio-8080-exec-2] com.divvyapp.AssignTasks  - java.lang.IllegalStateException: Cannot call sendRedirect() after the response has been committed
+ERROR   2014-12-12 13:36:26,216 [http-nio-8080-exec-4] com.divvyapp.AssignTasks  - java.lang.IllegalStateException: Cannot call sendRedirect() after the response has been committed
+ERROR   2014-12-12 13:36:26,855 [http-nio-8080-exec-8] com.divvyapp.AssignTasks  - java.lang.IllegalStateException: Cannot call sendRedirect() after the response has been committed
+ERROR   2014-12-12 13:36:27,592 [http-nio-8080-exec-3] com.divvyapp.AssignTasks  - java.lang.IllegalStateException: Cannot call sendRedirect() after the response has been committed
+ERROR   2014-12-12 13:36:28,309 [http-nio-8080-exec-9] com.divvyapp.AssignTasks  - java.lang.IllegalStateException: Cannot call sendRedirect() after the response has been committed
+ERROR   2014-12-12 13:36:28,958 [http-nio-8080-exec-2] com.divvyapp.AssignTasks  - java.lang.IllegalStateException: Cannot call sendRedirect() after the response has been committed
+ERROR   2014-12-12 13:36:29,630 [http-nio-8080-exec-4] com.divvyapp.AssignTasks  - java.lang.IllegalStateException: Cannot call sendRedirect() after the response has been committed
+ERROR   2014-12-12 13:36:30,436 [http-nio-8080-exec-10] com.divvyapp.AssignTasks  - java.lang.IllegalStateException: Cannot call sendRedirect() after the response has been committed
+ERROR   2014-12-12 13:36:31,149 [http-nio-8080-exec-3] com.divvyapp.AssignTasks  - java.lang.IllegalStateException: Cannot call sendRedirect() after the response has been committed
+ERROR   2014-12-12 13:36:32,056 [http-nio-8080-exec-9] com.divvyapp.AssignTasks  - java.lang.IllegalStateException: Cannot call sendRedirect() after the response has been committed
+ERROR   2014-12-12 13:36:32,661 [http-nio-8080-exec-5] com.divvyapp.AssignTasks  - java.lang.IllegalStateException: Cannot call sendRedirect() after the response has been committed
+ERROR   2014-12-12 13:36:33,727 [http-nio-8080-exec-4] com.divvyapp.AssignTasks  - java.lang.IllegalStateException: Cannot call sendRedirect() after the response has been committed
+ERROR   2014-12-12 13:36:36,692 [http-nio-8080-exec-8] com.divvyapp.AssignTasks  - java.lang.IllegalStateException: Cannot call sendRedirect() after the response has been committed
+ERROR   2014-12-12 13:36:37,466 [http-nio-8080-exec-3] com.divvyapp.AssignTasks  - java.lang.IllegalStateException: Cannot call sendRedirect() after the response has been committed
+ERROR   2014-12-12 13:36:54,742 [http-nio-8080-exec-4] com.divvyapp.AdvanceDate  - java.text.ParseException: Unparseable date: ""
+ERROR   2014-12-12 13:40:05,931 [http-nio-8080-exec-1] com.divvyapp.AdvanceDate  - java.text.ParseException: Unparseable date: ""
+ERROR   2014-12-12 13:41:12,125 [http-nio-8080-exec-10] com.divvyapp.AdvanceDate  - java.text.ParseException: Unparseable date: ""
+ERROR   2014-12-12 13:54:34,134 [http-nio-8080-exec-7] com.divvyapp.AdvanceDate  - java.text.ParseException: Unparseable date: ""
+ERROR   2014-12-12 14:11:13,070 [http-nio-8080-exec-3] com.divvyapp.AdvanceDate  - java.text.ParseException: Unparseable date: ""
+ERROR   2014-12-12 14:11:33,119 [http-nio-8080-exec-8] com.divvyapp.AssignTasks  - java.lang.IllegalStateException: Cannot call sendRedirect() after the response has been committed
+ERROR   2014-12-12 14:11:35,047 [http-nio-8080-exec-1] com.divvyapp.AssignTasks  - java.lang.IllegalStateException: Cannot call sendRedirect() after the response has been committed
+ERROR   2014-12-12 14:11:35,806 [http-nio-8080-exec-7] com.divvyapp.AssignTasks  - java.lang.IllegalStateException: Cannot call sendRedirect() after the response has been committed
+ERROR   2014-12-12 14:11:36,373 [http-nio-8080-exec-10] com.divvyapp.AssignTasks  - java.lang.IllegalStateException: Cannot call sendRedirect() after the response has been committed
+ERROR   2014-12-12 14:11:36,973 [http-nio-8080-exec-5] com.divvyapp.AssignTasks  - java.lang.IllegalStateException: Cannot call sendRedirect() after the response has been committed
+ERROR   2014-12-12 14:11:37,559 [http-nio-8080-exec-2] com.divvyapp.AssignTasks  - java.lang.IllegalStateException: Cannot call sendRedirect() after the response has been committed
+ERROR   2014-12-12 14:11:38,105 [http-nio-8080-exec-3] com.divvyapp.AssignTasks  - java.lang.IllegalStateException: Cannot call sendRedirect() after the response has been committed
+ERROR   2014-12-12 14:11:38,685 [http-nio-8080-exec-7] com.divvyapp.AssignTasks  - java.lang.IllegalStateException: Cannot call sendRedirect() after the response has been committed
+ERROR   2014-12-12 14:11:39,252 [http-nio-8080-exec-10] com.divvyapp.AssignTasks  - java.lang.IllegalStateException: Cannot call sendRedirect() after the response has been committed
+ERROR   2014-12-12 14:11:39,819 [http-nio-8080-exec-5] com.divvyapp.AssignTasks  - java.lang.IllegalStateException: Cannot call sendRedirect() after the response has been committed
+ERROR   2014-12-12 14:11:40,386 [http-nio-8080-exec-2] com.divvyapp.AssignTasks  - java.lang.IllegalStateException: Cannot call sendRedirect() after the response has been committed
+ERROR   2014-12-12 14:11:44,113 [http-nio-8080-exec-3] com.divvyapp.AdvanceDate  - java.text.ParseException: Unparseable date: ""

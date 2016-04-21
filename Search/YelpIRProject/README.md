@@ -1,0 +1,2 @@
+# YelpIRProject
+Information Retrieval - Yelp 

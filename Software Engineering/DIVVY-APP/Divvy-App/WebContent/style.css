@@ -1,0 +1,46 @@
+h4{
+	text-align: center;
+	font-family: "Comic Sans MS";
+	font: 24pt;
+	color: #000066;
+	font-weight: 900;
+}
+
+h5{
+	text-align: center;
+	font-family: "Comic Sans MS";
+	font: 24pt;
+	color: #000066;
+	font-weight: 800;
+}
+
+body{
+	font-family: "Comic Sans MS";
+	font: 20pt;
+	color: #64541B;
+	background: url('http://i.stack.imgur.com/oslRB.png');
+}
+
+
+AddTaskDiv.container{
+    vertical-align: right 
+}
+
+button{
+	font:2pt;
+	background: -webkit-linear-gradient(top, #6ac421, #6ac93a);   
+	background: -moz-linear-gradient(top, #6ac421, #6ac93a);   
+	background: -ms-linear-gradient(top, #6ac421, #6ac93a);   
+	background: -o-linear-gradient(top, #6ac421, #6ac93a);
+}
+
+
+th {
+    background-color: #E8EDED;
+    color: black;
+}
+
+td {
+    background-color: white;
+    color: black;
+}
